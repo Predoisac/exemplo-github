@@ -1,0 +1,15 @@
+body {
+    margin:0 auto ;
+}
+h1 {
+    margin: 0;
+}
+h2{
+    background-color: blue;
+}
+header{
+    background-color: #af6b4c;
+    color:white;
+    text-align: center;
+    padding:  100px 50px 0 50px;
+}
